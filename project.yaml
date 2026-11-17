@@ -25,7 +25,7 @@ repositories:
 
 website: "https://github.com/modelpack/model-spec"
 
-artwork: "https://landscape.cncf.io/logos/modelpack.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/modelpack"
 
 # TODO: Add ADOPTERS.md if your project tracks adopters
 # adopters:
